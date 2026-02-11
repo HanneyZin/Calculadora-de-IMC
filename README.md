@@ -1,4 +1,4 @@
 # Calculadora-de-IMC
 
 
-Seila e so um projeto do curso 
+Seila é só um projeto do curso, então fodase.
