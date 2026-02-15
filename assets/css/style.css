@@ -29,6 +29,22 @@ body {
     
 }
 
+.listas-lado-a-lado {
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.listas-lado-a-lado .lista-bloco {
+    flex: 1;
+}
+
+.listas-lado-a-lado ul {
+    list-style: disc;
+    padding-left: 1.25rem;
+    margin: 0;
+}
+
 form input, form label, form button {
     display: block;
     width: 100%;
